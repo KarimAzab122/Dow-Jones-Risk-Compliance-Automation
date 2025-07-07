@@ -1,6 +1,6 @@
 @echo off
 REM Absolute Th Path
-cd C:\Users\karim.azab\dj_risk_compliance
+cd C:\Users\User_Name\dj_risk_compliance
 
 REM Activate virtual environment 
 call venv\Scripts\activate.bat
